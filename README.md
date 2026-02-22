@@ -1,5 +1,4 @@
-# React Learning Projects
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/rishav-026/React-Learning-projects/tree/main)
+# React Learning Projects 
 
 This repository is a curated collection of five React projects, documenting a progressive learning journey from fundamental concepts to advanced applications.
 
